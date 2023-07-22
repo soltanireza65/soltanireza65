@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soltanireza65
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning RUST
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me soltanireza65@gmail.com
 
 <!---
