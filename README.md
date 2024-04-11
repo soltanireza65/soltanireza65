@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soltanireza65
-- 👀 I’m interested in MERN
-- 🌱 I’m currently learning RUST
-- 📫 How to reach me soltanireza65@gmail.com
+- 👀 Just a tech
+- 📫 Reach me at soltanireza65@gmail.com
 
 <!---
 soltanireza65/soltanireza65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
